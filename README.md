@@ -4,11 +4,22 @@ Overview
 
 This PHP project is a simple CRUD (Create, Read, Update, Delete) Banking Management System, designed to manage basic banking operations. It uses PHP for server-side scripting, MariaDB for the database, and Bootstrap CSS along with JavaScript for the front-end.
 Features
-
+    
     Create Account: Allows users to create new bank accounts with essential information.
     View Accounts: Displays a list of all bank accounts with basic details.
     Update Account: Enables users to modify account information.
     Delete Account: Allows the removal of bank accounts from the system.
+
+    Client Interface Panel:
+
+    Create Account: Allows clients to create new bank accounts with essential information.
+    View Accounts: Displays a list of all bank accounts with basic details.
+
+Admin Interface Panel:
+
+    View All Accounts: Enables administrators to see a comprehensive list of all bank accounts.
+    Update Account: Allows administrators to modify account information.
+    Delete Account: Enables administrators to remove bank accounts from the system.
 
 Technologies Used
 

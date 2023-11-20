@@ -43,7 +43,7 @@ Setup Instructions
 
     bash
 
-    git clone https://github.com/your-username/php-banking-system.git
+    git clone https://github.com/hollali/php-banking-system.git
 
     Import the database schema using db.sql into your MariaDB server.
 

@@ -15,11 +15,19 @@ Features
     Create Account: Allows clients to create new bank accounts with essential information.
     View Accounts: Displays a list of all bank accounts with basic details.
 
-Admin Interface Panel:
+ Admin Interface Panel:
 
     View All Accounts: Enables administrators to see a comprehensive list of all bank accounts.
     Update Account: Allows administrators to modify account information.
     Delete Account: Enables administrators to remove bank accounts from the system.
+    Search Accounts: Provides administrators with the ability to search through the client database.
+
+Employee Interface Panel:
+
+    View All Accounts: Allows employees to see a comprehensive list of all bank accounts.
+    Update Account: Enables employees to modify account information.
+    Delete Account: Allows employees to remove bank accounts from the system.
+    Search Accounts: Provides employees with the ability to search through the client database.
 
 Technologies Used
 
